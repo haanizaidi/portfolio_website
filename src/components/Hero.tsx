@@ -1,5 +1,6 @@
 import React from "react";
 import { ArrowDown, Download } from "lucide-react";
+import me from "../assets/abhayimage.png"
 
 const Hero: React.FC = () => {
   return (
@@ -15,7 +16,7 @@ const Hero: React.FC = () => {
           <div className="md:w-1/3">
             <div className="w-48 h-48 md:w-56 md:h-56 mx-auto md:mx-0 rounded-full overflow-hidden shadow-xl border-4 border-white dark:border-neutral-800">
               <img
-                src="src\components\abhayimage.png"
+                src={me}
                 alt="Abhay Minhas"
                 className="w-full h-full object-cover"
               />
