@@ -54,7 +54,7 @@ const Hero: React.FC = () => {
               </a>
               <div className="flex gap-4">
                 <a
-                  href="https://drive.google.com/file/d/1_GHwow5tceyFyNaulNoKjMUDSvVSfUzC/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1JJd3SavPAAKtgglnCsrjcaTGIk-I4HMd/view?usp=sharing"
                   download
                   className="flex items-center gap-2 px-4 py-2 bg-white dark:bg-neutral-800 text-brand-600 dark:text-brand-400 font-medium rounded-lg border border-brand-600 dark:border-brand-400 hover:bg-brand-50 dark:hover:bg-neutral-700 transition-colors duration-300"
                 >
