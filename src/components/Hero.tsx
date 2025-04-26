@@ -1,6 +1,6 @@
 import React from "react";
 import { ArrowDown, Download } from "lucide-react";
-import me from "../assets/abhayimage.png"
+import me from "../assets/abhayimage.png";
 
 const Hero: React.FC = () => {
   return (
@@ -63,7 +63,7 @@ const Hero: React.FC = () => {
                 </a>
                 <a
                   // ../assets/filename
-                  href="src\components\specialisedCV12206734.docx"
+                  href="..\src\assets\specialisedCV12206734.docx"
                   download
                   className="flex items-center gap-2 px-4 py-2 bg-white dark:bg-neutral-800 text-brand-600 dark:text-brand-400 font-medium rounded-lg border border-brand-600 dark:border-brand-400 hover:bg-brand-50 dark:hover:bg-neutral-700 transition-colors duration-300"
                 >
