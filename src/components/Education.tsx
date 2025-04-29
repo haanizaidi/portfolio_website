@@ -17,31 +17,31 @@ const Education: React.FC = () => {
               Computer Science and Engineering
             </p>
             <p className="text-gray-500 dark:text-gray-500">
-              2022 - 2026 | CGPA: 7.8
+              2022 - 2026 
             </p>
           </div>
           
           <div className="bg-white dark:bg-gray-800 rounded-lg p-6">
             <h3 className="text-xl font-bold text-gray-800 dark:text-gray-200">
-              Lord Mahavira Jain Public School
+              Meerut Public School
             </h3>
             <p className="text-gray-600 dark:text-gray-400">
               12th with Science
             </p>
             <p className="text-gray-500 dark:text-gray-500">
-              2021 - 2022 | Percentage: 85%
+              2019 - 2020 | Percentage: 90%
             </p>
           </div>
           
           <div className="bg-white dark:bg-gray-800 rounded-lg p-6">
             <h3 className="text-xl font-bold text-gray-800 dark:text-gray-200">
-              Lord Mahavira Jain Public School
+              Meerut Public School
             </h3>
             <p className="text-gray-600 dark:text-gray-400">
               10th
             </p>
             <p className="text-gray-500 dark:text-gray-500">
-              2020 | Percentage: 86%
+              2017-2018 | Percentage: 84%
             </p>
           </div>
         </div>

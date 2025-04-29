@@ -66,7 +66,7 @@ const Contact: React.FC = () => {
                       href="mailto:abhayminhas1@gmail.com" 
                       className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300"
                     >
-                      abhayminhas1@gmail.com
+                      haanizaidi420@gmail.com
                     </a>
                   </p>
                 </div>
@@ -85,7 +85,7 @@ const Contact: React.FC = () => {
                       href="tel:+917087705058" 
                       className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300"
                     >
-                      +91 7087705058
+                      +91 9368151533
                     </a>
                   </p>
                 </div>
@@ -100,7 +100,7 @@ const Contact: React.FC = () => {
                     Location
                   </h4>
                   <p className="text-gray-600 dark:text-gray-400">
-                    Hoshiarpur, Punjab 144404
+                    Meerut, Uttar Pradesh 25004
                   </p>
                 </div>
               </div>
@@ -113,7 +113,7 @@ const Contact: React.FC = () => {
               
               <div className="flex space-x-4">
                 <a
-                  href="https://www.linkedin.com/in/abhay-minhas"
+                  href="https://www.linkedin.com/in/haani-zaidi/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-400 hover:bg-blue-100 dark:hover:bg-blue-900/30 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300"
@@ -122,7 +122,7 @@ const Contact: React.FC = () => {
                   <span>L</span>
                 </a>
                 <a
-                  href="https://github.com/AbhayMinhas"
+                  href="https://github.com/haanizaidi"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-400 hover:bg-blue-100 dark:hover:bg-blue-900/30 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300"

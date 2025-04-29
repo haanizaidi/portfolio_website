@@ -14,19 +14,19 @@ interface Project {
 const projects: Project[] = [
   {
     id: 1,
-    title: "Chitchat Chat Application",
-    description: "A real-time chat application with private channels and secure network encryptions. Features include MongoDB data storage, responsive design, dynamic pagination, REST APIs, JWT authentication, and support for emojis and images.",
+    title: "Operating System Scheduling Algorithm Simulation",
+    description: "This project simulates various CPU scheduling algorithms used by operating systems to manage process execution. The goal is to visualize and compare how different algorithms schedule processes based on factors like arrival time, burst time, and priority.",
     image: "https://images.pexels.com/photos/1310532/pexels-photo-1310532.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    tags: ["React", "Node.js", "MongoDB", "Express.js", "JWT", "REST API"],
-    githubUrl: "https://github.com/AbhayMinhas/Live-chat"
+    tags: ["React", "JavaScript"],
+    githubUrl: "https://github.com/haanizaidi/OS_Project"
   },
   {
     id: 2,
-    title: "Electronic Sync Music Application",
-    description: "A synchronous music application offering personalized music experiences where users can share playlists with friends. Utilizes MongoDB and Grid FS for efficient music file storage and streaming, with a modern UI built using Tailwind CSS.",
-    image: "https://images.pexels.com/photos/1626481/pexels-photo-1626481.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    tags: ["MERN Stack", "MongoDB", "Grid FS", "Tailwind CSS"],
-    githubUrl: "https://github.com/AbhayMinhas/Music-Player"
+    title: "Student Record Management System",
+    description: "The Student Record Management System is a digital solution designed to store, manage, and retrieve student data efficiently. This project automates the manual process of handling student information like personal details, academic records, and performance metrics.",
+    image: "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=600",
+    tags: ["PHP","MySQL"],
+    githubUrl: "https://github.com/haider-zaidi/PHP_Project"
   }
 ];
 

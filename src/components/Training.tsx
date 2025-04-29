@@ -10,10 +10,10 @@ interface Training {
 
 const trainings: Training[] = [
   {
-    title: "Data Structure and Algorithms - Self-Paced",
-    provider: "GeeksforGeeks",
-    date: "August 2024",
-    certificateUrl: "https://media.geeksforgeeks.org/courses/certificates/7f407c3a8f149b1fd10994e386b4d71a.pdf"
+    title: "Machine Learning and AI",
+    provider: "Board Infinity",
+    date: "July 2024",
+    certificateUrl: "https://drive.google.com/file/d/1DssfFXTIGAZcmHJfrrisjxAIkMnGSc5J/view?usp=sharing"
   }
 ];
 

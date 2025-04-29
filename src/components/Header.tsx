@@ -35,7 +35,7 @@ const Header: React.FC<HeaderProps> = ({ darkMode, toggleDarkMode }) => {
     >
       <div className="container mx-auto px-4 md:px-6 flex justify-between items-center">
         <a href="#" className="text-xl font-bold text-gray-900 dark:text-white transition-colors duration-300">
-          Abhay.Dev
+          Haani.Dev
         </a>
 
         <div className="flex items-center gap-4">

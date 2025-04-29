@@ -1,6 +1,5 @@
 import React from "react";
 import { ArrowDown, Download } from "lucide-react";
-import me from "../assets/abhayimage.png";
 
 const Hero: React.FC = () => {
   return (
@@ -16,8 +15,8 @@ const Hero: React.FC = () => {
           <div className="md:w-1/3">
             <div className="w-48 h-48 md:w-56 md:h-56 mx-auto md:mx-0 rounded-full overflow-hidden shadow-xl border-4 border-white dark:border-neutral-800">
               <img
-                src={me}
-                alt="Abhay Minhas"
+                src={"https://i.ibb.co/wFx9W2qG/img.jpg"}
+                alt="Mohd Haani"
                 className="w-full h-full object-cover"
               />
             </div>
@@ -26,7 +25,7 @@ const Hero: React.FC = () => {
           <div className="md:w-2/3 text-center md:text-left">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-3 animate-fade-in">
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-600 to-accent-500 dark:from-brand-400 dark:to-accent-400">
-                Abhay Minhas
+                Mohd Haani
               </span>
             </h1>
             <h2 className="text-xl md:text-2xl font-medium text-neutral-700 dark:text-neutral-300 mb-4 animate-fade-in animation-delay-200">
@@ -54,7 +53,7 @@ const Hero: React.FC = () => {
               </a>
               <div className="flex gap-4">
                 <a
-                  href="https://drive.google.com/file/d/1JJd3SavPAAKtgglnCsrjcaTGIk-I4HMd/view?usp=sharing"
+                  href=""
                   download
                   className="flex items-center gap-2 px-4 py-2 bg-white dark:bg-neutral-800 text-brand-600 dark:text-brand-400 font-medium rounded-lg border border-brand-600 dark:border-brand-400 hover:bg-brand-50 dark:hover:bg-neutral-700 transition-colors duration-300"
                 >
@@ -62,8 +61,7 @@ const Hero: React.FC = () => {
                   <span>Video CV</span>
                 </a>
                 <a
-                  // ../assets/filename
-                  href="https://docs.google.com/document/d/1iw52WM1sVt1l0OgoZ12ResmI-Kcv87-N/edit?usp=sharing&ouid=103392708488654029423&rtpof=true&sd=true"
+                  href="https://docs.google.com/document/d/1bgpQZ03WD5Vcx7LmHtooHbUtST9_g1HY/edit?usp=sharing&ouid=118256421608042709413&rtpof=true&sd=true"
                   download
                   className="flex items-center gap-2 px-4 py-2 bg-white dark:bg-neutral-800 text-brand-600 dark:text-brand-400 font-medium rounded-lg border border-brand-600 dark:border-brand-400 hover:bg-brand-50 dark:hover:bg-neutral-700 transition-colors duration-300"
                 >

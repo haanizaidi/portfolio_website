@@ -10,22 +10,22 @@ interface Certificate {
 
 const certificates: Certificate[] = [
   {
-    title: "Server-side JavaScript with Node.js",
+    title: "Introduction to Large Language Models",
+    provider: "Coursera",
+    date: "Feb 2024",
+    certificateUrl: "https://www.coursera.org/account/accomplishments/certificate/LCZ4KYNGPZJB"
+  },
+  {
+    title: "Build AI Apps with ChatGPT, Dall-E, and GPT-4",
     provider: "Coursera",
     date: "May 2024",
-    certificateUrl: "https://www.coursera.org/account/accomplishments/verify/7W7G58MPJ64G"
+    certificateUrl: "https://www.coursera.org/account/accomplishments/certificate/NGQHN8QE3CXX"
   },
   {
-    title: "HTML, CSS, and JavaScript for Web Developers",
+    title: "ChatGPT Advance Data Analysis",
     provider: "Coursera",
-    date: "April 2024",
-    certificateUrl: "https://www.coursera.org/account/accomplishments/verify/83RPNBT6ZSD5"
-  },
-  {
-    title: "Generative AI with Large Language Models",
-    provider: "Coursera",
-    date: "October 2023",
-    certificateUrl: "https://www.coursera.org/account/accomplishments/verify/YGKDWX9ZPU36"
+    date: "May 2024",
+    certificateUrl: "https://www.coursera.org/account/accomplishments/certificate/RTRS7CPMJBWF"
   }
 ];
 

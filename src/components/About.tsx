@@ -11,7 +11,7 @@ const About: React.FC = () => {
           
           <div className="space-y-6 text-gray-600 dark:text-gray-300">
             <p>
-              I'm a Computer Science and Engineering student at Lovely Professional University, maintaining a strong CGPA of 7.8. My passion lies in creating innovative web applications and solving complex problems through code.
+              I'm a Computer Science and Engineering student at Lovely Professional University. My passion lies in creating innovative web applications and solving complex problems through code.
             </p>
             
             <p>
